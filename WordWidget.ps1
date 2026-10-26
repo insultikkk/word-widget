@@ -1,4 +1,4 @@
-param([switch]$SmokeTest)
+﻿param([switch]$SmokeTest)
 
 $ErrorActionPreference = 'Stop'
 Add-Type -AssemblyName PresentationFramework
