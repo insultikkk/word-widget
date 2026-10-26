@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Word Widget">
+  <rect x="4" y="4" width="120" height="120" rx="30" fill="#141517" stroke="#d9dadd" stroke-width="4"/>
+  <path d="M32 88 52 38h12l20 50H70l-4-12H49l-4 12H32Zm21-23h10l-5-15-5 15Z" fill="#fff"/>
+  <path d="M83 39h13v13H83z" fill="#fff" opacity=".42"/>
+</svg>
